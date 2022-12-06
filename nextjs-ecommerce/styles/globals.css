@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.background{
+    background-color: #252525;
+}
+.color{
+    color: #FFEBD6;
+    font-size: 50px;
+}
+.colorbutton{
+    color: #FFEBD6;
+}
+.home{
+    background-color: #252525;
+    color:white;
+    margin:auto;
+    width:1400px
+
+}
+input .search{
+    background-color:#f47443;
+    color:black;
+}
+
+.games{
+    font-size: 20px;
+}
+.title{
+    font-size:60px;
+}
+.head{
+    background-color: #480A0E;
+}
+
+.tickets{
+    color:gray;
+}
